@@ -77,6 +77,8 @@ always @(posedge clk or posedge reset) begin
 end
 endmodule
 ```
+![Screenshot 2024-10-17 115538](https://github.com/user-attachments/assets/54248d3f-48fd-427b-bd36-2fa0b1550146)
+
 Verilog Code for Sequence Detector Using Mealy FSM
 
 // mealy_sequence_detector.v
